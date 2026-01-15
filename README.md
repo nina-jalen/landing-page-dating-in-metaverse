@@ -12,4 +12,5 @@ A **responsive landing page** built as my first project from the SheCodes Basics
 
 ## 🚀 Live Demo
 
-👉 https://dating-in-metaverse.netlify.app/
+[![Live Demo](https://img.shields.io/badge/View%20Live%20Demo-%23FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://dating-in-metaverse.netlify.app/)
+
