@@ -5,7 +5,7 @@ A **responsive landing page** built as my first project from the SheCodes Basics
 ## ⚙️ Key Features
 
 - Built with **HTML & CSS**
-- Small **JavaScript enhancements** for interactivity
+- Small **JavaScript enhancements**
 - Clean and responsive layout 📐
 - Modern design with smooth **interactions** ⚡️ 
 - Featured as a **Shecodes Alumni** project 🏆
